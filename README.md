@@ -1,4 +1,4 @@
-# [mldangelo.com](http://mldangelo.com) and simplified [mldangelo.github.io/personal-site](https://mldangelo.github.io/personal-site/)
+# Personal Website
 
 My personal website. Easily modifiable, and built using modern javascript with Node.js, React, Express, React-Router, Hot Module Reloading, Webpack and many other technologies.
 
@@ -9,6 +9,9 @@ The master branch of this repository contains a simplified version of my website
 Many people have contacted me about adapting this website. I have tried to make things as simple as possible. There are still bugs. I am sorry. If you find a bug, please email me (help@mldangelo.com) or submit an issue or a pull request.
 
 ## Dependencies
+This website utilizes the awesome personal website template designed and created by Michael D'Angelo
+https://github.com/mldangelo/personal-site
+
 
 Tested with:
 
